@@ -1,0 +1,8 @@
+{
+  "name": "May Fashion - Tech x Style",
+  "description": "A high-end fashion e-commerce application blending technology and style with 3D product visualization, AI-powered styling, and a VR try-on experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
